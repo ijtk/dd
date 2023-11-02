@@ -29,13 +29,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>包名</string>
+				<string>com.Proxy-demo22</string>
 				<key>bundle-version</key>
-				<string>版本号</string>
+				<string>1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>client-mobile</string>
+				<string>client-mobile2</string>
 			</dict>
 		</dict>
 	</array>
